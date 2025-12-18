@@ -4,7 +4,7 @@ I'm a software engineer passionate about building clean, efficient, and modular 
 You'll usually find me customizing Linux environments, optimizing workflows, or automating absolutely everything.
 
 I love:
-- 🧬 Declarative systems (NixOS + flakes)
+- 🧬 Tinkering & Breaking Software
 - ⚙️ Backend engineering & automation
 - 🦀 Rust development
 - 🛠️ Dotfiles, shells, and custom workflows
@@ -15,7 +15,6 @@ I love:
 ## 🧰 Tech I Use & Enjoy
 
 **Operating Systems & Tools**
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-00AEEF?logo=wayland&logoColor=white)
 
@@ -35,6 +34,9 @@ I love:
 
 ### 📦 [rustwav](https://github.com/khanCurtis/rustwav)  
 a Rust-based music downloader and library manager.
+
+### 🛠️ [dotfiles](https://github.com/khanCurtis/dotfiles)
+my dotfiles
 
 ---
 
