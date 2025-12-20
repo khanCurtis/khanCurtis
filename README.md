@@ -41,7 +41,8 @@ My personal Linux configuration and workflow setup.
 ### 💻 [omarchy](https://github.com/khanCurtis/omarchy)
 My Omarchy auto-install scripts
 
-### ☀️[3ds-BrightnessSlider](https://github.com/khanCurtis/3ds-Birghtness-Slider)
+### ☀️[3ds-BrightnessSlider](https://github.com/khanCurtis/3ds-BrightnessSlider)
+Allows the 3d slider to act as a brightness adjuster
 
 ---
 
