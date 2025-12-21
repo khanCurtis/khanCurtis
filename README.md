@@ -38,9 +38,6 @@ A Rust-based music downloader and library manager.
 ### 📝 [dotfiles](https://github.com/khanCurtis/dotfiles)
 My personal Linux configuration and workflow setup.
 
-### 💻 [locode](https://github.com/khanCurtis/locode)
-A Free local Web-App to learn how to code
-
 ### ☀️[3ds-BrightnessSlider](https://github.com/khanCurtis/3ds-BrightnessSlider)
 Allows the 3d slider to act as a brightness adjuster
 
