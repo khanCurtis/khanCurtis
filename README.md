@@ -47,7 +47,7 @@ Allows the 3d slider to act as a brightness adjuster
 
 ### [learning-cpp](https://github.com/khanCurtis/learning-cpp)
 
-### [learning-rust](https://github.com/khanCurtis/learning-rustrust)
+### [learning-rust](https://github.com/khanCurtis/learning-rust)
 
 ---
 
