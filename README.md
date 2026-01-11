@@ -46,10 +46,8 @@ Allows the 3d slider to act as a brightness adjuster
 ## Follow my Coding Journey!
 
 ### [learning-cpp](https://github.com/khanCurtis/learning-cpp)
-A Rust-based music downloader and library manager.
 
 ### [learning-rust](https://github.com/khanCurtis/learning-rustrust)
-My personal Linux configuration and workflow setup.
 
 ---
 
