@@ -1,4 +1,4 @@
-### Software Engineer • Linux Enthusiast • Rust Specialist
+### Software Engineer • Linux Enthusiast • Systems Developer
 
 I'm a software engineer focused on building clean, efficient, and modular systems.  
 You'll usually find me customizing Linux environments, optimizing workflows, or automating everything I can.
@@ -6,7 +6,7 @@ You'll usually find me customizing Linux environments, optimizing workflows, or 
 I enjoy:
 - 🧬 Tinkering with and breaking software
 - ⚙️ Backend engineering & automation
-- 🦀 Rust development
+- 🦀 Rust & C development
 - 🛠️ Dotfiles, shells, and custom workflows
 - 🏔️ Using Linux everywhere — laptops, servers, and anything in between
 
