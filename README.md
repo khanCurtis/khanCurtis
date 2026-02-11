@@ -16,7 +16,6 @@ I enjoy:
 
 **Operating Systems**  
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
