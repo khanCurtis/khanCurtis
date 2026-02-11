@@ -12,7 +12,7 @@ I enjoy:
 
 ---
 
-## 🧰 Tech I Use & Enjoy
+## 🧰 Stack & Tools
 
 **Operating Systems & Environments**  
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
@@ -20,7 +20,7 @@ I enjoy:
 
 **Languages**  
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Tools & Platforms**  
@@ -38,7 +38,7 @@ A Rust-based music downloader and library manager.
 ### 📝 [dotfiles](https://github.com/khanCurtis/dotfiles)
 My personal Linux configuration and workflow setup.
 
-### ☀️[3ds-BrightnessSlider](https://github.com/khanCurtis/3ds-BrightnessSlider)
+### ☀️ [3ds-BrightnessSlider](https://github.com/khanCurtis/3ds-BrightnessSlider)
 Allows the 3d slider to act as a brightness adjuster
 
 ---
@@ -47,14 +47,16 @@ Allows the 3d slider to act as a brightness adjuster
 
 ### [learning-cpp](https://github.com/khanCurtis/learning-cpp)
 
+### [learning-c](https://github.com/khanCurtis/learningc)
+
 ### [learning-rust](https://github.com/khanCurtis/learning-rust)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanCurtis&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanCurtis&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanCurtis&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanCurtis&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
