@@ -14,9 +14,11 @@ I enjoy:
 
 ## 🧰 Stack & Tools
 
-**Operating Systems & Environments**  
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00AEEF?logo=wayland&logoColor=white)
+**Operating Systems**  
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 **Languages**  
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
@@ -24,9 +26,9 @@ I enjoy:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 
 ---
 
