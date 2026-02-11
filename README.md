@@ -36,11 +36,14 @@ I enjoy:
 ### 🎵 [rustwav](https://github.com/khanCurtis/rustwav)
 A Rust-based music downloader and library manager.
 
-### 📝 [dotfiles](https://github.com/khanCurtis/dotfiles)
-My personal Linux configuration and workflow setup.
-
 ### ☀️ [3ds-BrightnessSlider](https://github.com/khanCurtis/3ds-BrightnessSlider)
 Allows the 3d slider to act as a brightness adjuster
+
+### 📝 [dotfiles](https://github.com/khanCurtis/dotfiles)
+My personal Linux configuration files.
+
+### 📝 [omarchy](https://github.com/khanCurtis/omarchy)
+My personal omarchy configuration and workflow setup script.
 
 ---
 
