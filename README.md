@@ -25,7 +25,7 @@ I enjoy:
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**Tools & Platforms**  
+**Tools**  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
