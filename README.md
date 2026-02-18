@@ -55,6 +55,8 @@ My personal omarchy configuration and workflow setup script.
 
 ### [learning-rust](https://github.com/khanCurtis/learning-rust)
 
+### [learning-python](https://github.com/khanCurtis/learning-python)
+
 ---
 
 ## 📈 GitHub Stats
